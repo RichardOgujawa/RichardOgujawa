@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @RichardOgujawa
-- 👀 I’m interested in HTML, CSS and JavaScript
+- 👀 I’m interested in Programming
 - 💼 Feel free to check out my design work on behance.net <a>https://www.behance.net/richardogujawa</a>
-- 📫 richardogujawa7@gmail.com 
+- 📫 richardogujawa7@gmail.com
+- 💻 [Personal Website](https://www.richardogujawa.com)
+- 
 
 <!---
 RichardOgujawa/RichardOgujawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
