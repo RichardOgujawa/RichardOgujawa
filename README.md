@@ -1,5 +1,5 @@
 - 👋🏾 Hi, I’m Richard Ogujawa
-- 👀 Programming and Visual Designer
+- 👀 Data & Software Engineer | Analytics, Automation & UX-Driven Tools
 - 💼 Feel free to check out my design work on behance.net <a>https://www.behance.net/richardogujawa</a>
 - 📫 richardogujawa7@gmail.com
   
